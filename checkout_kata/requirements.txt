@@ -1,0 +1,8 @@
+Flask==2.1.0
+requests==2.26.0
+colorama-0.4.6 
+iniconfig-2.0.0 
+packaging-24.0 
+pluggy-1.4.0 
+pytest-8.1.1
+kataenv==3.11.0
